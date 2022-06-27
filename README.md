@@ -23,6 +23,6 @@ Inoltre ho aggiunto un ulteriore button per resettare il counter a partire da ze
 Ecco il link per poter utilizzare il counter: https://mohamediaich.github.io/counter/
 
 # Contatti
-* <a href="https://www.linkedin.com/in/mohamed-iaich/" target="_blank">Linkedin</a>
-* <a href="https://www.instagram.com/m_iaich/" target="_blank">Instagram</a>
-* <a href="https://api.whatsapp.com/send?phone=393393685515" target="_blank">Whatsapp</a>
+* <a href="https://www.linkedin.com/in/mohamed-iaich/">Linkedin</a>
+* <a href="https://www.instagram.com/m_iaich/">Instagram</a>
+* <a href="https://api.whatsapp.com/send?phone=393393685515">Whatsapp</a>
